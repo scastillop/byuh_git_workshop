@@ -2,3 +2,6 @@
 
 Collaborators
 @anel.canto @proffesor_draper @sebastian.castillo
+
+External Collaborators
+@jhon.33
