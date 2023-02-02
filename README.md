@@ -1,4 +1,4 @@
 # byuh_git_workshop
 
 Collaborators
-@anel.canto @proffesor_draper @sebastian.castillo
+@anel.canto @proffesor_draper @sebastian.castillo @taylorMcKendrick
